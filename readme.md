@@ -1,6 +1,6 @@
 Django Project
 
-Pages
+Message Board
 
 Based on the book:
 Django for Beginners
